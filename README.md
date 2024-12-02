@@ -1,4 +1,4 @@
-![Screenshot_2-12-2024_183521_localhost](https://github.com/user-attachments/assets/3f030219-4220-40a1-881a-ea5d4082ff92)# BRO💪FIGHTS
+# BRO💪FIGHTS
 Buy weapons and battle with other Bro NFTs.
 
 ⚙️ Built using NextJS, RainbowKit, Hardhat, Wagmi, and Typescript. Deployed on Linea Sepolia
