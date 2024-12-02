@@ -1,4 +1,4 @@
-# BRO💪FIGHTS
+![Screenshot_2-12-2024_183521_localhost](https://github.com/user-attachments/assets/3f030219-4220-40a1-881a-ea5d4082ff92)# BRO💪FIGHTS
 Buy weapons and battle with other Bro NFTs.
 
 ⚙️ Built using NextJS, RainbowKit, Hardhat, Wagmi, and Typescript. Deployed on Linea Sepolia
@@ -7,12 +7,15 @@ Deployed smart contract on Linea Sepolia : https://sepolia.lineascan.build/addre
 
 ## Welcome to BRO💪FIGHTS Homepage
 
+![Screenshot_2-12-2024_183521_localhost](https://github.com/user-attachments/assets/61865295-7cd6-4219-8267-9fcd9a0b352e)
 
 ## Marketplace page
 
+![Screenshot_2-12-2024_183532_localhost](https://github.com/user-attachments/assets/09d92048-eb3d-401c-bccd-5067cb754bd8)
 
 ## Game Play page
 
+![Screenshot_2-12-2024_183550_localhost](https://github.com/user-attachments/assets/db76dd10-80d0-4e1e-81ec-4fb4d18b7cd7)
 
 ## Requirements
 
